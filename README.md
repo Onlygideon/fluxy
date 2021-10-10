@@ -1,0 +1,1 @@
+## FLUXY: Responsive Design for a movie streaming platform
