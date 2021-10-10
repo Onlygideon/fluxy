@@ -45,7 +45,6 @@ $(document).ready(()=> {
         }
     })
 
-
     $('.movies-slide').owlCarousel({
         items: 5,
         dots: false,
